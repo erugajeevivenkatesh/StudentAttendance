@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">StudentAttendance</string>
+    <string-array name="Studentclass">
+        <item>NURSERY</item>
+        <item>LKG</item>
+        <item>UKG</item>
+        <item>1st CLASS</item>
+        <item>2nd CLASS</item>
+        <item>3rd CLASS</item>
+        <item>4th Class</item>
+        <item>5th Class</item>
+        <item>6th Class</item>
+        <item>7th Class</item>
+        <item>8th Class</item>
+        <item>9th Class</item>
+        <item>10th Class</item>
+
+    </string-array>
+    <string-array name="sections">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+    </string-array>
+    <string name="section">CHOOSE SECTION</string>
+    <string name="ChooseClass">CHOOSE CLASS</string>
+</resources>
